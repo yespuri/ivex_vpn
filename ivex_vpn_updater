@@ -1,3 +1,10 @@
-{"newVersion": "14",
- "apkUrl": "https://www.mediafire.com/file/8zbssrwrmr3xf3r/app-release.apk/file",
- "versionNotes":"V4 Update"}
+{
+  "latestVersion": "1.0.100",
+  "latestVersionCode": "15",
+  "url": "https://github.com/javiersantos/AppUpdater/releases",
+  "releaseNotes": [
+    "- First evolution",
+    "- Second evolution",
+    "- Bug fixes"
+  ]
+}
